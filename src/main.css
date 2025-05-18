@@ -1,0 +1,80 @@
+:root{
+    --button-pad-x: 15px;
+    --button-pad-y: 25px;
+    --button-margin-y: 5px;
+    --button-margin-x: 10px;
+}
+
+
+
+.app-button {
+    background: linear-gradient(90deg, #4CAF50, #2E8B57); /* Gradient background */
+    border: none; /* Remove border */
+    color: white; /* Text color */
+    padding: var(--button-pad-x) var(--button-pad-y); /* Padding for size */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Inline-block for layout */
+    font-size: 25px; /* Font size */
+    margin: var(--button-margin-y) var(--button-margin-x); /* Margin around button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 25px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    font-family: 'Lucida Handwriting', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.app-button:hover {
+    background: linear-gradient(90deg, #2E8B57, #4CAF50); /* Reverse gradient on hover */
+    transform: scale(1.1); /* Slightly enlarge on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); /* Increase shadow on hover */
+}
+
+.cake-button {
+    background: linear-gradient(90deg, #534caf, #442e8b); /* Gradient background */
+    border: none; /* Remove border */
+    color: white; /* Text color */
+    padding: var(--button-pad-x) var(--button-pad-y); /* Padding for size */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Inline-block for layout */
+    font-size: 25px; /* Font size */
+    margin: var(--button-margin-y) var(--button-margin-x); /* Margin around button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 25px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    font-family: 'Lucida Handwriting', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.cake-button:hover {
+    background: linear-gradient(90deg, #502e8b, #5b4caf); /* Reverse gradient on hover */
+    transform: scale(1.1); /* Slightly enlarge on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); /* Increase shadow on hover */
+}
+
+.crossword-button {
+    background: linear-gradient(90deg, #a5af4c, #8b852e); /* Gradient background */
+    border: none; /* Remove border */
+    color: white; /* Text color */
+    padding: var(--button-pad-x) var(--button-pad-y); /* Padding for size */
+    text-align: center; /* Center text */
+    text-decoration: none; /* Remove underline */
+    display: inline-block; /* Inline-block for layout */
+    font-size: 25px; /* Font size */
+    margin: var(--button-margin-y) var(--button-margin-x); /* Margin around button */
+    cursor: pointer; /* Pointer cursor on hover */
+    border-radius: 25px; /* Rounded corners */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.2); /* Add shadow */
+    transition: all 0.3s ease; /* Smooth transition for hover effects */
+    font-family: 'Lucida Handwriting', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.crossword-button:hover {
+    background: linear-gradient(90deg, #7a8b2e, #99af4c); /* Reverse gradient on hover */
+    transform: scale(1.1); /* Slightly enlarge on hover */
+    box-shadow: 0 6px 8px rgba(0, 0, 0, 0.3); /* Increase shadow on hover */
+}
+
+
+
