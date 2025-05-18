@@ -3,7 +3,7 @@ import './App.css';
 import React, { useState } from 'react';
 import confetti from 'canvas-confetti';
 import thud from './thud.mp3'
-import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import { useNavigate } from 'react-router-dom';
 import HomePage from './main'
 

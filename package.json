@@ -1,7 +1,7 @@
 {
   "name": "doris",
   "version": "0.1.0",
-  "homepage": "http://ndzSFU.github.io/Doris-Birthday",
+  "homepage": "https://ndzSFU.github.io/Doris-Birthday",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
