@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Doris-Birthday/static/css/main.48ff5e26.css",
+    "main.js": "/Doris-Birthday/static/js/main.647c480b.js",
+    "static/js/453.bb0defaf.chunk.js": "/Doris-Birthday/static/js/453.bb0defaf.chunk.js",
+    "static/media/clap.mp4": "/Doris-Birthday/static/media/clap.63d83c01516b21b171a0.mp4",
+    "static/media/thud.mp3": "/Doris-Birthday/static/media/thud.f7d5ff01945c79c0fe22.mp3",
+    "static/media/blow.mp3": "/Doris-Birthday/static/media/blow.0eb0e675e2af2ef6ff5b.mp3",
+    "static/media/logo.svg": "/Doris-Birthday/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Doris-Birthday/index.html",
+    "main.48ff5e26.css.map": "/Doris-Birthday/static/css/main.48ff5e26.css.map",
+    "main.647c480b.js.map": "/Doris-Birthday/static/js/main.647c480b.js.map",
+    "453.bb0defaf.chunk.js.map": "/Doris-Birthday/static/js/453.bb0defaf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48ff5e26.css",
+    "static/js/main.647c480b.js"
+  ]
+}
